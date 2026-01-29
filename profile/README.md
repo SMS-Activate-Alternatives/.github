@@ -3,6 +3,7 @@
 <meta name="author" content="Hero-SMS Team">
 
 # SMS Activate Alternatives – Best Services for Virtual Phone Numbers in 2026
+One of the leading platforms, the SMS-Activate service, ceased operations on December 29th.
 <a href="https://hero-sms.com" target="_blank">
     <img src="https://img.shields.io/badge/🏆%20Best%20Alternative-blue?style=for-the-badge" alt="Best Alternative">
   </a>
