@@ -41,7 +41,7 @@ Whether SMS-Activate is down, doesn't have numbers for your region, or you're ju
 ## 🏆 Hero-SMS — The #1 SMS Activate Alternative
 
 <div align="center">
-  <img src="/images/hero-sms-image.png" alt="Интерфейс Hero SMS" width="100%">
+  <img src="/images/hero-sms-image-2.png" alt="Интерфейс Hero SMS" width="100%">
 </div>
 
 **Hero-SMS** stands out as the top alternative to SMS-Activate, and here's why: it's built on the same proven technology but enhanced with modern improvements, faster infrastructure, and better terms for users.
