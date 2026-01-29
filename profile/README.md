@@ -12,7 +12,7 @@
   </a>
   <br>
  <a href="https://hero-sms.com" target="_blank">
-    <img src="https://img.shields.io/badge/Get%20Started-orange?style=for-the-badge" alt="Create Account">
+    <img src="https://img.shields.io/badge/Create%20Account-orange?style=for-the-badge" alt="Create Account">
   </a>
 <br><br>
   <div align="center">
